@@ -1,4 +1,4 @@
-# Agenda - React Native
+# Agenda - React Native [Expo](https://docs.expo.dev/get-started/installation/)
 App para agendar citas de un consultorio veterinario.
 
 ## Componentes principales.
